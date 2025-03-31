@@ -23,7 +23,3661 @@ There are 1 jobs (1 new) matching your criteria for Engineering electrical, scie
 Job Title	Date Posted	Req ID
 Operations Manager: Facilities Management
 06/05/2024	7610
-You are receiving this email because you registered on our Web site for Saved Searches/Alerts. If you prefer not to receive emails like this in the future, please click on this link: Unsubscribe
+You are receiving this email because you registered on our Web site for Saved Searches/Alerts. If you prefer not to receive emails like this in the future, please click on this link: 
+
+
+Unsubscribe
+
+
+Data
+
+
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Sun, Mar 23, 7:12 PM (8 days ago)
+	
+	
+to me, TSHINGOMBEKB 
+ 
+
+-1 .background: outcome
+- 2.topic.
+- overview key 
+- 
+_______________________________________
+- from 1. -
+- window ,4,3,2
+- label  , F5
+- frame6
+-label name 7= combo  "text, " name 8
+- label surname 9=combo  " text " surname 10
+-label  I'd 11 =  combo " text " ID, 12
+-label cell phone 13=combo  " text " cellphone 14
+-command _ok ,15
+-command  _cancell.16
+- command_ next ,17
+________________________________________
+
+________________________________________
+Frm2 success 
+- window 21,20,19
+- label  22
+- frame 23
+- label  address24= ," text address "25
+- label  birthday date ,26= "text print"27
+-label  send  28= " send "
+- command_ ok
+-command_
+- command 
+- image 
+______________________________________
+Frm 3
+- successful register. 34
+______________________________________
+frm4 
+-  label=account 39
+- label log in42 =" text log " 40
+-name = " name " 43
+
+- pass work = label 45 
+- forgot ,46 ..
+________________________________________
+frm5  
+- resend password.51
+- save record .52
+____________________________________
+Security scanner biometrie 
+_____________________________________
+.S2 frm ,,kfrm2 
+
+-|1|0|1| | | S1|Kl1|10| 
+-|2|0|0| | | S2|K2| 20|
+-|3|0|0| | | S3|K3| 30|
+-|4|0|0| | | S4|K4|40|
+-|5|0|1| | |S5| K5| 50|
+-|6|0|1| | |S6| K6|60|
+-|7|0|1| | |S7|K7| 70|
+-|8|0|1| | |S8|K8|80|
+-|9|0|1| | |S9|K9|90|
+-|10|0|1| |S10|K10|100
+-|11|0|1| |S11|K11|110
+-|12|0|1| |S12|K12|120.
+-|13|0|1| |S13|K13|130.
+-|14|0|1| |S14|K14|140
+-|15|0|1| |S15|K15|150
+-|16|0|1| |S16|K16|160
+-|17|0|0| |S17|K17|170.
+
+___________________________________
+S3 kfrm3
+-|18|0|0|0|S18|K18|180
+-|19|0|0|0|S19|K19|190
+-|20|0|0|0|S20|K20|200
+-|21|0|0|0|S21|K21|210
+-|22|0|0|0|S22|K22|220
+-|23|0|1|0|S23|K23|230
+-|24|0|1|0|S24|K24|240
+-|25|0|1|0|S25|K25|240
+-|26|0|1|0|S26|K26|250
+-|27|0|1|0|S27|K27|260
+-|28|0|1|0|S28|K28|280
+-|29|0|1|0|S29|K29|290
+-|30|0|1|0|S30|K30|300
+-|31|0|1|0|S31|K31|310
+-|32|0|1|0|S32|K32|320
+-|33|0|1|0|S33|K33|330
+_________________________________
+ S4,Kfrm4
+-|34|0|1|0|0|S34|K34|340
+-|35|0|0|0|0|S35|K35|350
+-|36|0|0|0|0|S36|K36|360
+-|37|0|0|0|0|S37|K37|370
+-|38|0|0|0|0|S38|K38|380
+-|39|0|1|0|0|S39|K39|390
+-|40|0|1|0|0|S40|K40|400
+-|41|0|1|0|0|S41|K41|410
+-|42|0|1|0|0|S42|K42|420
+-|43|0|1|0|0|S43|K43|430
+-|44|0|1|0|0|S44|K44|440
+-|45|0|1|0|0|S45|K45|450
+-|46|0|1|0|0|S46|K46|460
+-|47|0|1|0|0|S47|K47| 470
+-|48|0|1|0|0|S48|K48|480
+-|49|0|1|0|0|S49|K49| 470
+-|50|0|1|0|0|S50|K50|500
+______________________________
+-|51|0|1|0|0| S51|K51|510
+-|52|0|1|0|0|S52| K52|520
+_____________________
+Ka1. 
+Ka2
+
+_______________________________________
+- kfrm1= ( S1.kfrm1)+(sumk1to K17)
+- kfrm2=(s2.kfrm2)+(sum k18to K33)
+-kfrm3=(S3.kfrm3)+(sum.k33 to K34)
+-kfrm 4= (S4.kfrm4)+(K34 to 45)
+- kfrm5=(S5.kfrm 5)+(K45 to 51)
+-kfrm6=(S6.kfrm 6)+(k51to K52)
+Kfrm2= ka..
+Kfrm2 = missing research ..
+
+_____________________________________
+_ cmd ,click event ,end sub ..
+- beginning
+- caption = "user form .kfrm2,kfrm2,kfrm3, kfrm4,kfrm5 ,kfrm6.
+
+- client height = 8085
+- client left = 45
+- client top = 375
+- client width= 16815
+-object blad = " user form document"
+- start up position= 3' window.
+- buthi = true .
+- what this = 1 true ,end 
+- attributes VB_ global name space = false .
+- attributes VB _ declared I'd = true .
+- attributes VB .predeclared I'd = true 
+- attributes VB exposed = false .
+- end sub 
+- private sub combo box charge .( " Text ' name ")
+- private sub command button ,31,15,16,17
+Click()
+- private sub command button ,31,32,33
+- private sub sub frame ,6
+- private sub user form click 
+- end sub ,private sub useform
+- error ( by vak number as integer by vak description as strings ,Ms firm string by vak ,as long by source as strings by cancel display Ms firm returned , boolean user firn button integer vak shift integer vak singl
+
+
+
+
+
+
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Mon, Mar 24, 8:16 PM (7 days ago)
+
+	
+	
+to me, TSHINGOMBEKB 
+ 
+
+- |1.budget driverse| best case |ave |work
+ | 2 prob of shipping | 98%.       | 95%|90%
+-|3 number of buildings|25000|30000|35
+-|4competive product| 7          | 8.      |9
+-|5 probability of key | 99%     | 95%.  | 90%
+______________________________________
+- information about protecting a workbook protect and share workbook.
+-|day with AQdata| day A| day AQ| max 9
+-| 365.    | 93|   150|237| 147
+-| 323.   | 98|163. | 166| 122
+-|365 | 168 | 152 | 182 | 106
+- | 
+
+_______________________________________
+1-id |project name|owner| days| start|end
+1|1.0| marketing research| | 70| 9 jul|
+2|1.1|scope definition phase||9jul|
+3|1.1.1|define research object || || 
+4|1.1.2|define research require ||. ||
+5|1.1.3|determine in house| | 2| 15|| 
+6|1.2|define vendor selection criteria| 2|
+7|1.2.2|develop vendor selection| .
+8|1.2.3| evaluation proposal| 2| 
+9|1.2.4 | selected vendor |>
+10|1.3| research phase .
+11|1.4| information meet
+
+_________________________________________name appears on the worksheet tab
+- simple book product|| draft|||techn|content review ||||graphics||||| layout||||| proof |||||| of turning||||| final layout ||||| final proof |||||
+-staet dot | 27 Feb | ||. 
+- chapt 1.
+- chap 2
+-chP 3 
+- chap 4
+- chap5
+_______________________________________
+-worksheet background:
+- emplee | title| | email address ||||start date| ||||salary
+-worksheet background purpose.
+1.
+2
+- smart art diagrams create process project schedule diagram to illustrate the process visually.
+.- research -->concept--->customer feedback--> spec
+- spec update <--key client bets<--test alpha develop
+-release candidate > publit bets -->final..
+______________________________________
+-|order || custom||| order data |||| shipodata| freight
+- protection that prevents other users form turning off track changes
+- | G.      | H.     | J.      | K.  ||.      Work
+
+ -|73.     | 41,9  | caverag |
+-| 60.     | 33.    | Or.          |
+- 71.      | 29.    | Or.         | 10
+- 44.      | 25 
+
+______________________________________&
+- |presenting| 
+-| product I'd |
+- |product name |
+- |latin name |
+-| supplies I'd |
+-| category I'd |. >>>>>
+>>>Supplier 
+- supplier I'd 
+- supplier name
+- contact name
+- contact title 
+- address 
+>>>>>>>.  
+
+| Category| product name | discontinue| supplier name  phone .
+ 
+
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Mon, Mar 24, 8:41 PM (7 days ago)
+
+	
+	
+to me, TSHINGOMBEKB 
+ 
+
+-;structuring a database : 
+- supplier:
+- supplier I'd
+- supplier name
+- contact title 
+-address 
+-state 
+- phone ..>>>>>>>>>>>>
+Categories.
+-category I'd 
+- category name 
+- description.---->>>
+2.Products.
+- Product ID.
+-Product name
+-suppluee is 
+- category I'd 
+- Quantity per unit
+- unit stock 
+- unit on order 
+- reorder levek 
+- discontinue ---->>>
+
+-order details.
+- order I'd 
+- product I'd 
+- quantity
+- discount.
+.*
+>>>>orders
+- order I'd 
+- customer I'd 
+-employee I'd 
+- order date 
+- ship via
+- ship  via
+-freight.
+- ship  name 
+- ship city
+- ship 
+- >>>>>
+Customer s
+- customer I'd 
+- first name .
+- last name 
+- address .
+- city 
+- region 
+- postal code 
+- country
+- phone number 
+
+>>>>>
+Employee
+- employee I'd
+- first name
+- lost name
+- title 
+- address .city 
+- postal code .
+- home phone .
+- date hired 
+
+>>>>Edit relation  table query.
+- modify table .
+-prooerty sheet 
+- general 
+- display view share point| no|
+- sub datasheet expanded| no
+-;sub data sheet haering 
+- orientation|>description |>
+- validation rule | 
+- filter 
+- order by 
+- sub data sheet name .
+- linked child 
+- filter on load 
+- order by load ..
+
+>> Data sheet view design  importing database managing and maintaining database .
+- performance routine database operation manage problem  open deleting .
+- compact and repair database report form modules corruption b.
+- selecting a certificate path .
+- test taking tips
+- certificate benefits print score report assistant testing center administration score meets or exceed passing min requirements 14 I'd company..
+- install practice files CD book license agreement appears click .
+- Ms dos creating documentation form
+ 
+
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Mon, Mar 24, 9:01 PM (7 days ago)
+
+	
+	
+to me, TSHINGOMBEKB 
+ 
+
+-;create and send an email  message:
+Kfrm
+- command send.
+- label to = "text - mail"
+-label C.C = " mcas".
+- label bcc =  " text".
+- subject : 
+- 
+
+_____________________________________
+ Frm ..Recall message 
+- check box   ,deleted uread copies this message.
+- check  , delete uread copies order replace with .
+- tell if recall success or fail ..
+Command ,ok ,,command cancel 
+
+_______________________________________
+- framework.email signature .
+- selected signature edit  ,choose default signature
+-external  frame = email account labej ,
+- new resort .
+- replied name .
+-____________________________________
+-;frm out of office assistant .
+Check bocks ,do not sent out office.
+- check out office auto replies
+- only send during time range.
+- label  start time ..
+
+- end time ..
+- tab  inside my org |
+- outside my organization
+
+- command rules ,. Command ok command cancel
+- management email message attachment .
+- insert item 
+- look in 
+Frame. Table 
+
+- calender .
+- contact 
+
+________________________
+Kfrm 
+- message option.
+- message setting | security | change security
+- importance , normal ..
+- sentivity ..
+- contact ...
+Kfrb email message.
+
+ Label.Flag to 
+- start date
+Due date 
+- reminder 
+- create appoint ment send 
+ 
+
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Tue, Mar 25, 8:02 PM (6 days ago)
+
+	
+	
+to me, TSHINGOMBEKB 
+ 
+
+- frm.
+-:label name : new document 
+- tab blank,tab ,tab.
+________________________
+- frm  label 
+- frm *=build in 
+- colum 
+-__________________________
+- frm colums 
+- presets 
+Frame  ,frm  
+- number of colun .
+- apply to ,ok cancel..
+
+_____________________________
+- frm open 
+- label  organization ,label view ,label fold 
+- label template .
+-label  document.
+-label  recently 
+- frame  name 
+- label name ..
+
+_____________________________
+- frm mark index entry ..
+- label main entry= text 
+- substrates= 
+- options 
+- label  
+Bold,
+- command ok , make all cancel
+
+________________
+- shapes line ..
+Equation shape .
+- Flowchart 
+- start and ..
+__________________
+- choose a smart grate .
+- list ,process ,hierachir practice ..
+- line 
+_______________________________
+- frm format picture 
+- label 
+ 
+
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Sat, Mar 29, 3:33 PM (2 days ago)
+
+	
+	
+to me, TSHINGOMBEKB 
+ 
+
+- Excellent office specialist.
+- 1. Budget| best case | aver case | sect 
+ - driverse | sect 1.       | Sect 2.      | worst
+- 2 prob of | 98 %.       | 95 %.         | 90%
+ Ship air time
+  -3 number  |25000. | 30000.      | 35000
+  - 4 competitive| 7   | 8.          | 9 
+- 5 probability| 99%|. 95%. |.   90% 
+
+----
+- informatting section format cell and cell content 
+_______________________________________
+- information about protecting a workt protecting and share workbot.
+
+-1 day with.| Day AQiway | days | max| 90 
+ AQdate      |good  |.   AAI value | AAI val
+- 365.           | 93     | 150|.  237. | 147
+-323.           |98.     | 163 | 166.   | 122
+-365.         | 168.    | 152.| 182. | 114
+- 345.      |. 182.    | 116. | 173. | 114
+_____________________________________
+ID • Project| owner | days | start | end 
+ name
+-1|1.0| marketing | -/-| 70| 9 jul | -
+          | Research
+           tact
+-1.1|scope |.       |10 | 9 jul | 19
+    |  definition|
+     | phase. |
+-1.1.1|define.  | 2 ,2. | 15 j 
+         |  research 
+         |® object|.
+-1.1.2|define|.    2, 
+         |  research|
+          | Require|
+-1.1.3 |resource or phase .,15 | 19| jul
+- 1.2.| vendor selection phase | 
+- 1.2.2 |vendor selection phase|2
+_develop statement work | 2
+- 1.2.3| develop statement 
+- 1.2.4| evaluation proposal 
+- 1.25| select vendor 
+-1.3.  research phase
+-1.3.1 | information.
+_____________________________________
+- 1.name appears on the w tab
+| Simple|draft |technical|content |graph
+ book. |.         | Review| revi
+ produc|
+t schedule| 
+     
+
+                         || Layout | proof || pg turn
+  || Final layout | final..
+2._
+Start date| 27 Feb|
+-3. working 
+Days budget| 3march|....| ..| ...|
+-chapiter 1
+- chapiter 2
+-chapiter 3 
+- chapiter 4
+-chapiter 5
+______________________________________
+- simple book| draft1 | technical review 
+ production|.               | 
+ schedule|
+- start 3950| work days , holiday 
+- chap1
+-chap 2
+- chap 3
+-chap 4
+- chap 5
+_____________________________________
+- name ,interest 
+- scope : workbook.
+- comment .
+
+- | name | value | refers | scope|comment
+- interest | 10% | sheet | workbook| annua
+-loan a| 5000|.                Initial monthly 
+- month payment.
+
+
+_____________________________
+Prepare workbook for  distribution.
+Document 
+
+- document properties.
+- author | title| subject | key
+- category| status 
+- financial | draft 
+- base on previous years cost 
+Power
+
+
+________________________________________
+- power point master still .
+- data type to open on date base : normal form 
+- data a type | holds 
+- text | general purpose data up to 255 charact , including letter
+- memo | general purpose data up to 65,535
+- number | numeric value that assignment a field property to restrict 
+-state time | numeric value 4 digital to right decimal point up 15 to left value in parathese formatted as money.
+- auto number | unique sequence or random value such as yes .no  graphic or object such as a spreadsheet audio files ..
+- hyperlink| a path to o file on your hard disc a file on your network 
+_______________________________________
+field name | date type  | description 
+-product I'd |text number | number 
+- supplie I'd| text  |automatic assignment 
+- category I'd|number| supplie table
+- quantity per |text| caregoi table per kg
+- unit price. |Currency 
+- unit stock | number 
+- unit order |number
+- unit in stock |
+- unit order | number 
+- reador level|number 
+- discount| yes / no 
+_____________________________________
+-structuring a database .
+- suppliers : primary key
+-1supplier 
+Supplier I'd, supplier name ,contact name ,contact title,address,city,state,postal code,phone number
+2. Categories: categories I'd, category name, description.
+-3.Products : product I'd ,product name ,latin name ,supplier I'd , category I'd , quantity per unity ,unity ,unity price ,unity stock ,unit on order recorder level , discontinue,,
+- 4. Order details.
+- order I'd , product I'd , quantity, discount,
+-5.ordsr ,order I'd , customer I'd ,order date ,ship , freight,ship name,ship city .
+
+6. Customer: customer I'd ,first names,last name,address,city,region,postal code, country phone ,
+- employee: empltis ,first name,last name,title address,cit,state,postal code ,home birthday,date ,
+-7.edit relation.
+Table ,query | relate table .
+Production ..
+- modify tables 
+- property sheet| 
+- general |™
+- display view or share point .
+- sub datasheet expanded.|
+- orientation|
+-default view |
+- filter | 
+- order by .
+- sub data sheet name|no
+- link child 
+- master fields.
+- filter and load
+- order by and load |
+__ datasheet view design : impory database . management and maintaining database , performance routine database operation manage problem add deleting,compact and requirements database report form modules corruption.
+Performance analysis utility.
+- selecting a certification path .test taking tips ,cery benefits print report assistant testing center administration score meets or exceed passing min requirements ,14 days I'd company..
+- instal practice CD book licence agreement appears click ...
+____________________________________
+- worksheet background:.
+-employee | title | email address| start         date| salary 
+
+- worksheet background: purpose:
+- smart art diagrams create process project schedule diagram illustrates the process visually 
+- research yes, concept yes, customer feedback yes, spec yes, spec update, key client yes beta, test,alpha develop yes, release candidate yes, public beta,final yes ,,
+
+-order | customer| order date| shipodata| freight| ship name..
+
+- protection that prevents other user from turning off track changes information workbooks.
+_______________________________
+
+G.           | H.          |J.          |K.        | L.   
+-90th perc
+Aoj value | media a,j value| state| epa.-73,1| 41,9| CA average
+-60.   | 33 | or. | 10.- 
+- 71|.  29| or | 10
+- 44| | 25
+____________
+- presenting 
+-product I'd,
+- product name .
+- latin name
+- supplier I'd 
+- categories I'd
+-------->>>supplier,supplier I'd , supplier name , contact name, contact title ,address city ..
+
+* Categories| product name | discontinue| supplie name ,phone number
+ 
+
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Sat, Mar 29, 8:02 PM (2 days ago)
+
+	
+	
+to me, TSHINGOMBEKB 
+ 
+
+-  background : minimum system requirements.
+Microsoft business certificate ,skill vista mcap certificate application profession 
+
+- programe the 2007 office system Ms of 2007,excellent office power 2007 outlook 2007 Microsoft office acces 2007 .
+- install run  programe meet requirements.
+- 500 megahertz (mhz) processor.
+- 256 megabyte ( mb) ram .
+- CD or DVD drive.
+- 2 gigabyte ( gb) conf..
+- monitor with 800×600screen resolution ,1024×768 or higher.
+- keyboard mouse or compatible painting device.
+- internet connect ,128 kilobite per second ( kbp) greater , 
+- window vista or la xp with pack  server 2003 or later.
+- word 2007 excel 2007 ,power point out ook ,2007 and access 2007 with .
+-access to a printe .
+- 91mb of availability hard disc ..
+
+* Using the companion CD : 
+- installing the practice files.
+-step companion CD from ,CD drive of ,pc license agreement , following screen direction menue ac .
+- click install practice files .
+- click next accepted term .
+- document ..imcas clink installed.
+- uninstall practice .
+- * completed task skill : 
+-1. crating and customizing document.
+2.formatting content : format text  paragraph.
+- 3. Working with visual ,content insert.
+-4. Organizing content : structure content 
+-5. Reviewing document ,navigate document .
+- 6. Sharing and security content .
+*Prepare document sharing .
+
+- xp operating system ,pc running management practices.file.
+-| folder \ objective.   | |file
+- object creating cust| |auto certificate doc , background dick book mark dick colum colum doc ,content cross ref head hyperlink printer properties.
+- object : formatting|| changing doc finding docx ,pages paragraph styles.
+-object : working visual| area chart doc ballon chart clip drip ,logo .
+- object working visual| process shape smart text .
+- object working visual| process shape smart text textbook.
+- object | bibliographic calculation data source envelope footnote.
+- review | former list merge save combings compare track charge view ,view .
+- sharing security | compatibility dock finalize pass word , process.
+..- create and form document layout document personality test manipulation control ,formal illustrates format text insert and modify . modify insert forma by using use table list modify insert format.comoare and merge document version 
+-- creating  and manipulation data skill test relate to working data in .
+- insert data by using autofill .
+- ensure data integrity.
+- modify cell content and format .
+- change worksheet view
+- management worksheet.
+
+______________________________
+- creating and formatting present.
+- practice file task document.
+- customizing slide master .
+- add element to slide master .
+- create and change presentation.
+element ..
+*using Microsoft office.outlook 2007.
+-1.managing messages.
+-2.managinf scheduling.
+- 3.managing task .
+4. managing contact personality 
+5. organizing information.
+__________________________
+- practice tasks : working outlt.
+- account task practice document.create contact name subfolder contact fold
+- move mcas top level fold .
+- import contact information in the save mcas.create and modify contact .
+- edit use and electronics business.
+- create and modify distribution list .
+- create secondaries address.
+___________________________
+Access Microsoft office.
+1. Structuring a database.
+2. Creating and formatting database elementary.
+3. Entering and modifying querie.
+5. Present and sharing data .
+- management maintaining.
+_________
+- practice tasks : open add control.
+- details sect product ,report text box supplier.
+- open box control supplier name supplier.
+- open box control supplier name supplier .
+- open in the customer form database formatting .
+- open the auto for.
+- ________________________________
+_- creating manipulation| air quality datax copy past data valid , duplicate xlsx , fill colice ,xlsx ,fill customer xls ,fill serie ,list box , personality month ..
+- formatting data center | format cell fourt 
+_____________
+Azure DevOps :
+1.overview : summary dashboard.
+2. Board : work item ,board ,sprints ,querie , delivery.
+3.slrinter .
+4.repos : files comit ,pushes branches tags .
+5. Pipeline , pipeline ,dnves library.
+5. Test plan : 
+6. Progress report .
+7. Run artifact 
+- project stat over period ,board ,3 work item , work pipeline ,0 % ..
+______________
+- micro learn disco| product| dev|topic
+-46307064
+-929|214. |0. |0. | 0| 0 | level 16 , 1,463000/1481,099×
+- activity 
+- training 
+-plans
+- challenge 
+- credentials 
+- Q/A
+- achievement 
+- collection 
+- transcript.
+*.....past 30 days .
+March collection ,2024-11-02,28 items
+- March .you add an item 
+46307064 ,32 item .
+- mark you addet item assessment material 2023.  , 41 item 
+- learn goal grow in current career start new career complet specific project .
+- building plan .
+1. Background : objective,timeline, review.
+2.current role , career stage ,
+3. Provide response ,0-5 years mis career advanced .
+
+- Grub 
+- your profile ,your repository,your copilot,your project,your start,your gist ,your organization,your entrepreneur,your , sponsor,upgrade,feature prevu, setting,gitub ,git..
+
+________________
+- Azure , dynamic ,365 Microsoft 365 Microsoft copilot, Microsoft edge , Microsoft entra Microsoft graph , Microsoft purview, Microsoft team ,net power app ,SQL ,systenak , visual b,
+_______
+- topic , artificial intelligence compliance dev op , platform, engineering security.
+--------
+Language , C++ ,C# ,DAX ,java ,odab , operation ,grow ,in current career start new 
+_______________________________
+- compare Microsoft 365 with office.
+Buy 
+- number of use | 229,99| Ms 365| office 
+
+- number of account | 1 to pedal.
+- cloud storage | 1to 6 .
+- multiple device .
+- word ,excel .
+- one note .
+- outlook .
+,- ongoing technology 
+,- micro defender
+- Microsoft .
+- clip champ .
+- Microsoft team .
+- access pc .
+- Microsoft form ..
+ 
+
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Sun, Mar 30, 7:47 AM (1 day ago)
+
+	
+	
+to me, TSHINGOMBEKB 
+ 
+
+- foldering objective       | files 
+- objective o1.                | Design pptx
+- managing message 
+- objective 02.                  | Agenda .
+- objective 03                    | none 
+ Managing task 
+- objective 04                   | contact ,xls 
+ Managing contact 
+and  
+Personal contact information
+_ objective.                   | File 
+,,- objective.                  | Changing accb
+Structuring a database.  | Design accdb
+                                   | Key accdb 
+                             | Relation ship ,report accdb , split accd ..
+- entering and modifying data | attachment Accob|  duplicate record enter replacement enter replacement.
+- creating and modifying add table adher other presenting and sharing .
+- managing and sharing data .
+- managing and maintaining database : compact accb , information accb , password accdb ,startup 
+_______________________
+- create table 
+Kfrm asser data access 
+Label assessment create external database data total 
+- view ..
+-asset 
+- frame tab ,asset ,field name ,data type,description 
+- generator lookup.
+___________________________________
+Unicode : compression , property to yes
+- compressed value of few than 4096 character.
+- validation rule critere .
+- validay text explanation a.
+- control data ,text ,number ,except .
+Replication I'd ,date time ,like the mask for telephone number ,!.\(00")(000\0000;@..
+
+- character| description 
+-0.   | Required digital ortrougho optional digit or space optional digital or space blank , position are converted to space plus and minus sign are allowed.
+
+- L | requirements letter A , 
+ -through , optional letter or dig requirements letter or dig ,
+- requirements letter or digital -requirements optional character all character that following converted to low .character type into the mark fill it frame left to right you ex . character that following is display .
+-;liteol - | access treat the string enclose double quotation marks as literally .
+- password | create a password entry box any charat type in the box is store.
+
+- __________________________________
+-  frm .past table as
+- table .name 
+,- lbl copy assess ,  cmd ok 
+- check box structy on 
+. structure ,cancel
+__________________________________&
+- frm. input mask wizard.
+- lbl.  input mask data
+- frame .: label number = text number label .
+- social security number = 831-86-7180
+- zip code = 98952-6399
+- extension : 63215
+- password : 
+- long time : 1:12;
+
+____________________________
+- input mask wizard
+- input mask name use define .
+- input mask ( 000)000-0000
+
+_______________________
+-kfrm extension builder 
+
+- text : >#1/1/2005#and<date () ,, 
+Command,ok,,,cancel ,und 
+
+Frm fol function, build ,constant,
+- frm all conversion date time ,math text ,,
+- cdate date date drift ,data port ,data serie ,data serie data value ,,
+- export data to another ,SQL ,
+- create form wizard ..
+_____"""__________________
+Frm wizard .
+- tables ,querie 
+- product I'd name list name ,supplier .
+- quantity performance.
+
+___________________________
+- cell reference 
+A.     |B.     |C.     |D.       |E.      | F
+ 
+
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Sun, Mar 30, 8:04 AM (1 day ago)
+
+	
+	
+to me, TSHINGOMBEKB 
+ 
+
+Customer 
+Quantity| prices| subt| discount 
+- 100.|5 | = a5*b| c5*c2=total = c5.d5
+-200| 10|=A6.D5|c6.c2|c6.d6
+-300|15|A6*d6|c7.c5|c7.d7
+400
+-500
+______________
+- conditionally summary data by using .
+- function | purpose| argument 
+- aver get|
+Count if()
+- sum()
+Avert
+- count
+_________________
+- functy argument .
+- frm average | A1: c117 .
+ Label | period 
+Criteria 
+- criteria .label
+- criteria 
+- ok ,cancel 
+___________________
+- presenting data visualization 
+Frm move chart 
+- lbl ,check newsheet ,chart 
+- check in ,ok 
+
+________________
+Basic formatting : 
+- permission this present.
+- label permission .
+Restriction to presence 
+- label  read =, combo text 
+- label change= combot text ,
+___'__''__@
+ 
+
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Sun, Mar 30, 3:31 PM (18 hours ago)
+
+	
+	
+to me, TSHINGOMBEKB 
+ 
+
+- delivery presentation .
+- frm . Set up show
+Frame presented by a speak .
+- brow sed by individual.
+- frm all.
+- frm customer 
+- show option 
+- show with .
+- advanced slide .
+- manually .
+- using time .
+
+___________________________
+-:using Microsoft office access 2007 
+- field name | data type | description |
+- __________________________
+Frm  master Microsoft power point.
+- frm ,slide master, home , insert , animation, review,view 
+________________________________
+.- arrange slides .
+- title slide ,title and contact , section 
+- password protection.
+frm general optional.
+- file encryption setting for this document.
+- file sharing setting for the .
+- remove automatically created .
+- macro security .
+-cmd ok , cmd cancel
+_________________________________
+- frm  package for CD 
+- name CD : 
+- file to be copie .
+- master ppt ....
+- frm ,add files .
+Cmd copy folder ,,, cmd copy to CD ..
+
+_________________________________
+- create dabses .
+- frm template category 
+- local item 
+- form Ms 
+- business 
+- personal 
+- sample 
+- educate .
+* Local ,,asset ,event ,issue, contact, faculty, marketing,,
+-asset business,file ,create
+__________________________________
+- formatting:
+- property sheet.
+- format | data | event | other | all 
+.- caption.             | Alphabetical 
+- visibility.             | Yes 
+- width.                  | 4,4417
+- height.                 | 0,375
+-top.                       | 0,0417"
+-left.                       | Normal 
+- back style.          | Solide
+- border style.       | 3 pt 
+-border color.        |™#009DD9
+- special effects.  | Showed .
+-font name.           | Caliber 
+-font size.              |20font 
+-weight.                  • bold 
+- font  italic.             | Yes .
+- fore color.             | # FF0000
+- line spacing.       |™
+- hyperlink sub address 
+- gridline style top | transparent 
+- gridline style likeft | transparent..
+____________________________________
+- product : 
+- supplier I'd
+- category .
+- unit price 
+- unit stock .
+
+*.  Ok ,, cancel 
+____________________________________
+- frm ,format picture , 
+Frame : une cale line style shade ,3 d ,
+- picture ,
+- R color 
+- brigthnet
+- contract .
+- reset picture.
+
+_________________________________
+- reference table :
+- caption.
+- caption.
+Label.
+- exclud label from 
+- new label ,number .
+-autocaption .
+___________________________________
+- manage tracked change tracking .
+- track charge optional.
+- frm mark up 
+- label inserti, strike ,by authority 
+- deletion 
+- change line .
+- comment by author move .
+- table cell highlights.
+- inset cells 
+- deleted cell 
+- formatting.
+- ok 
+____________________________________
+- source manager.
+- search ,   | sort by author 
+- frm source , available , command browse
+- master list  ,
+Cmd copy
+Cmd delete
+Cmd edit
+Cmd new 
+
+- bibliographic ,field apa 
+- author= ,text
+- corporate=text
+-title = text 
+- years = text 
+- citation= text
+- public=✓
+
+_____________________________
+- document inspector 
+- to check the document for selected
+- comment , revision, version,and annual.
+- document properties 
+-customer xml,data
+- header ,footer on 
+-;hidden ten ..
+_______________________________
+-  frm formatting restriction 
+- 1.formatting restriction.
+- 2 editing restriction.
+___________________________________
+- General options 
+- frm file encryption for this t.
+- past to open ,frm
+- file sharing option for this .
+- protection doct,macro security.
+- cmd ok ,,cmd cancel 
+
+________________________________
+Review Ms word ,,word page ,sun of contact .
+
+- using micrt office excell filing serie 
+
+Frm ..serie , row ,type ,line, grow,data,
+Step value ,1 ,stop,cancel ..
+- frm  data validation.
+- frame setting ,
+Whole number ,
+- between 
+- frm .
+- maximum 
+- clear ,cmd ok , cancel..
+__________________________________
+- frm insert post .
+- insert ..
+- box shift cell right 
+- box shift cell 
+- cmd ok , cmd cancel.
+
+__________________________________
+- format cell 
+- number, allignmy,front,border,fill, protection.
+- frm ,general ,number,currency, account date,date time ..
+
+|A.     | B.       | C      | D.       | E.  | F  | G
+| employee| title| email| start date | solar | comis ,,
+- create table ,
+- $ A$ ,
+- ok , cancel 
+____________________________
+-Label wizard , available..
+
+________________________________
+- Label ,
+-Prodt number | dimenst| number|accros
+- unit of rescue | label type sheet feed
+
+
+
+-___________________________________
+-;new document .
+- blank .
+
+Frm build in ..
+____________
+_ colums .
+Preset .
+- on ,twi ,tree,left,
+-:number of colun .
+- frm 
+- apply ,,ok ,cancel ..
+________&________________________
+- open .
+t. Organizing,view,fold
+- template 
+- document 
+- recently ,
+- frm name..
+- file name ,allowed ...
+
+________________________________
+- mark index entry .
+- maint entry lbl ,,= txt
+- lbl substr = txt
+- options ..
+- bold .
+- italien ..
+- mark ,mark all ,cancell ,
+________________'___________
+- shapes line ,,,
+- equation shape flowchart.
+- start..
+.________________
+- smart art diagrams.
+- choose smart art great ,
+List ,process,cycle,hierchi,matrix,..
+
+_______________
+- line ,pie,bar,xy,stack ,n,,set as default chart ,ok , cancel 
+ 
+
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Sun, Mar 30, 6:21 PM (15 hours ago)
+
+	
+	
+to me, TSHINGOMBEKB 
+ 
+
+-bacground outcome 
+- topic ..
+The practice office and theories office in 3 dimensions ent analysis investigation discovery dimensions 
+Social dimensions tech engineering support dimensions educative generation must go is not primary dimensions political social industrial teaching sustainability office Ms building architecture office dimensions information electronics dimensions electrical geome spatial neural build tv display don't have card access can not is not electronics,socit peopt transformation relay gate mort office in society key verification if work is wrong social in society the office is agreed office or of didn't agree is load switch way key interlock is button off because of key switch relay .
+- is office electronics tv information but is also office real mechanotechnic electromechanical reak social social machine building society ,science pc computer science social political  buildings also  office tools electrical office boxes files printer save ,space electronics memorable storage.
+- variation in time electricy low address mechanotechnic physical the building ,house home also ,send electronic,,send mail but need also , mechanotechnic science natural was fly send electronic send mail but need also trravelet ,emergence  previous in electrical box storage pg book electronics after real is move job real electronics to electrical money real data air time demo ..
+- we build previously millions population register job office paper must be realistic .
+- building form library desk real after electronics building .
+- capacit printer build mechanotechnic and current relay generative data memo battery reak after electronics  storage battery real after ,electronics ,switch ,panej practice support task ,step work ,step work ,build real in electronics in mechanotechnic 
+__'''''___________________________
+
+ Key :  it to confirmation processor operation trade current company tv radio trade operationelbsystem data electrical information process , current in office before to supply must give statement metering wath is doing  wath the where transmitted.
+-top confirm that is room house tax city .water inspector.
+- calm framework call form call combo text wizard electronics in electrical contact task module calculator process office desk receptionist, cellphone call form ,
+-key . filling , filing room ,relay  trolley send file retrieval file process office requested filing ,roll filling record filing trolley track send file retrieval files process office requested filing request roll filling record filing trolley task ,electronic arch file .
+- in electrical contact is current metering filing room metering metering filing ,room mering register metering our time telecommunications task flashor . management is not electronics tv is mechanotechnic,mechanic trolley gateway bit , research motor case check box room  access way .
+- check ,1km = address ,files is current use trolley energy driving parking disk file .
+- asseservissment  call module transformation.
+- linear carrelator repressor 
+- amplifier call input output entry outcome module signal informy .
+* Loop laplace , distribution control nichol chart .
+* Movement file frequency ecartment .task request input ,output  record , weekend performance framework,form combo text ,
+- metering relay command call recall .
+- movement file information metering stereo bit ,kb / second electrovolt ampere bit kwh ,bit record data scope , oscilloscope move metering 
+ 
+\
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Sun, Mar 30, 6:24 PM (15 hours ago)
+
+	
+	
+to me, TSHINGOMBEKB 
+ 
+
+Outcome , assessment, stationary pc 
+Build computer assessment outcome.
+- computerise information size recruiting 
+- assess size value core .relay files assessment.
+- calculation compilation binary octal assessment word key value binary 
+- size calculation.
+ 
+
+tshingombe fiston <tshingombefiston@gmail.com>
+________________________________________
+research plan
+________________________________________
+tshingombe fiston <tshingombefiston@gmail.com>	Thu, Mar 20, 2025 at 1:02 PM
+To: Microsoft Research Forum Registration Support <microsoftresearchforum+idY37EKV-95YXK@stovaregistration.zendesk.com>, Microsoft EDU Sales <msedusales@microsoft.com>, Microsoft Support <support@mail.support.microsoft.com>, Microsoft Recruiting <microsoft-careers+email+b30o3-1437c895c1@talent.icims.com>, tshingombe fiston <tshingombefiston@gmail.com>, tshigombekb@gmail.com
+ 	tshingombe fiston <tshingombefiston@gmail.com>
+
+________________________________________
+code github
+________________________________________
+tshingombe fiston <tshingombefiston@gmail.com>
+Thu, Mar 20, 2025 at 12:21 PM
+To: tshingombe fiston <tshingombefiston@gmail.com>
+
+•	
+•	
+•	Stars 2 
+ 
+Kananga5 
+0 followers · 3 following 
+Kananga5/README.md 
+•	👋 Hi, I’m @Kananga5
+•	👀 I’m interested in ...
+•	🌱 I’m currently learning ...
+•	💞️ I’m looking to collaborate on ...
+•	📫 How to reach me ...
+•	😄 Pronouns: ...
+•	⚡ Fun fact: ...
+Popular repositories Loading 
+1.	discovery-science-technologie-engin-shing Public 
+discovery inventscie technologie tshi 
+1 
+1.	1 
+2.	Kananga5 Public 
+Config files for my GitHub profile. 
+3.	engineeringtshi Public 
+ENGINEERING 34 
+4.	engineering-tshing-binair-archfile- Public 
+Forked from t5h2i0tadi/engineering-tshing-binair-archfile- 
+ENGINEERING 
+5.	visualdatadv-entsh Public 
+visual studio excell 
+6.	master-ali-event-transcrip Public 
+master alu event prospecus 
+302 contributions in 2024 
+Contribution Graph
+Day of Week 	January Jan 	February Feb 	March Mar 	April Apr 	May May 	June Jun 	July Jul 	August Aug 	September Sep 	October Oct 	November Nov 	December Dec 
+Sunday Sun 																																																					
+Monday Mon 																																																					
+Tuesday Tue 																																																					
+Wednesday Wed 																																																					
+Thursday Thu 																																																					
+Friday Fri 																																																					
+Saturday Sat 																																																					
+Learn how we count contributions 
+Less 
+No contributions. 
+Low contributions. 
+Medium-low contributions. 
+Medium-high contributions. 
+High contributions. 
+More 
+Contribution activity 
+March 2025 
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	Kananga5/stripe-bank-account- 
+This contribution was made on Mar 2 Mar 2 
+February 2025 
+•	Kananga5/experimental-career-work-mas... 16 commits 
+•	Kananga5/Curriculum-section-1-1.1-The... 14 commits 
+•	Kananga5/Contributed-open-data 1 commit 
+•	
+•	Kananga5/Contributed-open-data 
+This contribution was made on Feb 4 Feb 4 
+Created a pull request in ORCID/ORCID-Source that received 1 comment 
+Feb 9 
+Engineering Update README.mdeng 
+Engineering's
++1 −0 lines changed • 1 comment 
+Created an issue in Kananga5/experimental-career-work-master-thesis-atlantic- that received 1 comment 
+Feb 25 
+engineering career 
+engineering
+1 comment 
+•	
+•	eng 
+This contribution was made on Feb 4 Feb 4 
+January 2025 
+•	Kananga5/Curriculum-section-1-1.1-The... 5 commits 
+•	
+•	Kananga5/bitcoin C++ 
+This contribution was made on Jan 24 Jan 24 
+Created an issue in Kananga5/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju that received 1 comment 
+Jan 30 
+e 
+engineering
+1 comment 
+•	
+•	engineering thesis 
+This contribution was made on Jan 30 Jan 30 
+December 2024 
+•	Kananga5/atlaticsworkclass-topics-cir... 7 commits 
+•	Kananga5/technique-ingenieur-defense-... 3 commits 
+•	
+•	Kananga5/atlaticsworkclass-topics-circulum... 
+This contribution was made on Dec 2 Dec 2 
+Created a pull request in MetaMask/metamask-extension that received 1 comment 
+Dec 13 
+Update README.mdeng 
+1alu course assessent tshingombe 23 engineering master.docx 453642_ATLSTIC INTERNATIONAL UNIVERSITY TSHINGOMBE CIRCULUM 2.docx eng Description Rel…
++28 −0 lines changed • 1 comment 
+•	
+•	enginineering atlantics 
+This contribution was made on Dec 3 Dec 3 
+November 2024 
+•	Kananga5/engineering-workbase-tshing-... 6 commits 
+•	Kananga5/engineering-workbaseexperime... 1 commit 
+•	
+•	Kananga5/engineering-workbase-tshing-prati... 
+This contribution was made on Nov 13 Nov 13 
+October 2024 
+•	
+•	Kananga5/awesome-vscode JavaScript 
+This contribution was made on Oct 17 Oct 17 
+Created an issue in viatsko/awesome-vscode that received 2 comments 
+Oct 17 
+visul studion 
+hello
+2 comments 
+September 2024 
+•	Kananga5/engineering-workbaseexperime... 5 commits 
+•	Kananga5/engineering-workexperimental... 3 commits 
+•	Kananga5/Development-justice-constitu... 3 commits 
+•	
+•	Kananga5/engineering-workexperimental-maga... 
+This contribution was made on Sep 30 Sep 30 
+Created an issue in Azure/azure-sdk-for-js that received 2 comments 
+Sep 24 
+Engineering electrical database gate triggered 
+Type of issue Typo Description [Enter feedback here] Page URL https://learn.microsoft.com/en-us/javascript/api/overview/azure/education?view=azure-…
+2 comments 
+•	
+Education technology 
+•  Overview 
+•  
+•  Repositories 61 
+•  
+•  Projects 
+•  
+•  Packages 
+•  
+•  Kananga5/career-experimenatal-post-duty-st... 
+This contribution was made on Mar 7 Mar 7 
+•  
+•  Kananga5/data-base-career-experimental-sec... 
+This contribution was made on Mar 4 Mar 4 
+•  
+•  Kananga5/mt-scraper PHP 
+This contribution was made on Feb 28 Feb 28 
+•  
+•  Kananga5/experimental-career-work-master-t... Python 
+This contribution was made on Feb 24 Feb 24 
+•  
+•  Kananga5/ORCID-Source Java 
+This contribution was made on Feb 9 Feb 9 
+•  
+•  engineering 
+This contribution was made on Feb 10 Feb 10 
+•  
+•  engineering 
+This contribution was made on Feb 10 Feb 10 
+•  
+•  Kananga5/Curriculum-section-1-1.1-Thesis.-... 
+This contribution was made on Jan 30 Jan 30 
+•  
+•  Kananga5/metamask-extension TypeScript 
+This contribution was made on Dec 13 Dec 13 
+•  
+•  Kananga5/coinbase-wallet-sdk TypeScript 
+This contribution was made on Dec 4 Dec 4 
+•  
+•  Kananga5/technique-ingenieur-defense-mater... 
+This contribution was made on Dec 4 Dec 4 
+•  
+•  Kananga5/engineering-workbaseexperimental-... 
+This contribution was made on Sep 30 Sep 30 
+•  
+
+On Thu, Mar 20, 2025 at 11:59 AM tshingombe fiston <tshingombefiston@gmail.com> wrote:
+thesis master atalantic azure
+About this project
+thesis master atlantic
+Project stats
+Boards
+10 
+Work items created
+0 
+Work items completed
+Pipelines
+0%
+Builds succeeded
+Members
+1 
+
+thesis master atalantic azure Team
+thesis master atalantic azure
+Team Settings
+thesis master atalantic azure Team
+Boards
+thesis master atalantic azure Team
+Backlogs
+engin
+Sprints
+
+Overview
+Dashboards
+
+
+On Thu, Mar 20, 2025 at 11:40 AM tshingombe fiston <tshingombefiston@gmail.com> wrote:
+ 
+0s
+1s
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/6e9cabb3-b989-407a-8132-4ed32b317eaf' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+
+•	
+build 
+succeeded Feb 13, 2025 in 3s 
+ 
+0s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download immutable action package 'actions/checkout@v4' 
+Complete job name: build 
+2s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/79cbd147-5305-4c42-aca3-01350427bb2c' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Deleting the contents of '/home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+0bebd64386b9b060cad7a6eb29dd091f6bd2a775 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/1d1dc293-9b04-44fe-9ba7-e22b564d64d4' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+•	
+build 
+succeeded Feb 10, 2025 in 3s 
+ 
+0s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+1s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/286230a4-450c-42a1-b129-7fc8ec4b7db4' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Deleting the contents of '/home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+b3e027c3bd76e0f7b9665c85514d185635b6ac9e 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/6699dffe-d8f7-47bd-b469-c18128b573d9' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s 
+succeeded Feb 4, 2025 in 3s 
+ 
+0s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+1s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/a9d14e9a-4178-45ed-b113-c3c721919dc8' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Deleting the contents of '/home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+ed6e7b53d588e4ae41b64133c0168aea2f166afa 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/deccff4a-94d4-498e-8780-842b3a9d7fcb' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+1s
+Cleaning up orphan processes 
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+1s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/62dc9a9c-7865-4550-9201-5248fb789321' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Deleting the contents of '/home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+96a24adf82d6be3f90edbc076bbb27847b4f44e9 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/488f5d63-30b1-4b09-9318-57dac3fedb7e' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+build 
+succeeded Jan 30, 2025 in 3s 
+ 
+0s
+Current runner version: '2.321.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+1s
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/98886928-6dc5-44ce-9fb8-fa6dab56032b' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+CI 
+engineering #16 
+•	
+build 
+succeeded Mar 19, 2025 in 8s 
+ 
+0s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+6s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/data-base-career-experimental-security-and-information-thesis- 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/7d35b9af-1854-4810-9d87-44528016f891' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+Deleting the contents of '/home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis-' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+f36530b45cdb0abd292d4e15e605b0be33aa8875 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/a615e844-d4e2-421e-b8bb-8f506abe3f02' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+•	
+CI 
+experomental security #11 
+•	
+build 
+succeeded Mar 5, 2025 in 8s 
+ 
+1s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+5s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/data-base-career-experimental-security-and-information-thesis- 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/9333f9eb-7ffd-491f-b7c4-e0fb3635be0d' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+Deleting the contents of '/home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis-' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+6f86077fec4d05c877138168c70febb8800edef1 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/7f272fd5-d2ce-4441-8682-64416a24b8a2' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+engineering #19 
+•	
+build 
+succeeded Mar 18, 2025 in 14s 
+ 
+1s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+12s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/experimental-career-work-master-thesis-atlantic- 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/20b5e55e-e7a2-4b24-bf90-5374d059d12d' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/experimental-career-work-master-thesis-atlantic-/experimental-career-work-master-thesis-atlantic- 
+Deleting the contents of '/home/runner/work/experimental-career-work-master-thesis-atlantic-/experimental-career-work-master-thesis-atlantic-' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+0b0128b5fea94d5fb00305b4a36b279429a2992f 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/0ebee745-7ff9-4912-aef1-e2b0b54d19c8' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/experimental-career-work-master-thesis-atlantic-/experimental-career-work-master-thesis-atlantic- 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+engineering master career completed regulation #15 
+•	
+build 
+succeeded Mar 5, 2025 in 14s 
+ 
+1s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+11s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/experimental-career-work-master-thesis-atlantic- 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/60961bb7-9827-4450-9805-9eabde853786' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/experimental-career-work-master-thesis-atlantic-/experimental-career-work-master-thesis-atlantic- 
+Deleting the contents of '/home/runner/work/experimental-career-work-master-thesis-atlantic-/experimental-career-work-master-thesis-atlantic-' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+cc7e9f248c791e0555bf82d6384c1bcb13457461 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/865e3bec-e4a6-4f43-9fc9-7efe55cfb209' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/experimental-career-work-master-thesis-atlantic-/experimental-career-work-master-thesis-atlantic- 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s 
+•	
+build 
+succeeded Mar 18, 2025 in 4s 
+ 
+1s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+2s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/form-microsoft-cmputer-framework-qualification-diploma-question-assessment 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/f9034840-807a-47dd-8975-08b8f860d64e' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/form-microsoft-cmputer-framework-qualification-diploma-question-assessment/form-microsoft-cmputer-framework-qualification-diploma-question-assessment 
+Deleting the contents of '/home/runner/work/form-microsoft-cmputer-framework-qualification-diploma-question-assessment/form-microsoft-cmputer-framework-qualification-diploma-question-assessment' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+6fd57f7a2895fcbd0b11d4bb6e0fd01ad3032237 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/50bff405-ac94-43e9-8b23-f7979596782f' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/form-microsoft-cmputer-framework-qualification-diploma-question-assessment/form-microsoft-cmputer-framework-qualification-diploma-question-assessment 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+•	Settings 
+CI 
+engineering #11 
+•	
+build 
+succeeded Mar 14, 2025 in 8s 
+ 
+1s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+5s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/atlaticsworkclass-topics-circulum-univesity-thesis-published 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/5bdadcff-312e-4f5c-8e2f-34fe4c3a21fc' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/atlaticsworkclass-topics-circulum-univesity-thesis-published/atlaticsworkclass-topics-circulum-univesity-thesis-published 
+Deleting the contents of '/home/runner/work/atlaticsworkclass-topics-circulum-univesity-thesis-published/atlaticsworkclass-topics-circulum-univesity-thesis-published' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+cb97fbe174ac0c40563c7e7b8dfd7c03577f8adb 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+1s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/732c8a1b-b1a7-4589-9ab6-5149097a5802' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/atlaticsworkclass-topics-circulum-univesity-thesis-published/atlaticsworkclass-topics-circulum-univesity-thesis-published 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+•	
+•	
+•	
+•	Jobs 
+o	
+•	
+•	Run details 
+o	
+•	
+•	Jobs 
+o	
+•	
+•	Run details 
+o	
+Cleaning up orphan processes 
+•	
+•	Jobs 
+o	
+•	
+•	Run details 
+o	
+•	
+•	Jobs 
+o	
+•	
+•	Run details 
+o	
+•	
+•	Jobs 
+o	
+•	
+•	Run details 
+o	
+•	
+•	Jobs 
+o	
+•	
+•	Run details 
+o	
+
+Cleaning up orphan processes 
+•	
+•	Jobs 
+o	
+•	
+•	Run details 
+o	
+•	
+•	Jobs 
+o	
+•	
+•	Run details 
+o	
+
+
+On Thu, Mar 20, 2025 at 11:20 AM tshingombe fiston <tshingombefiston@gmail.com> wrote:
+build 
+succeeded Mar 19, 2025 in 6s 
+ 
+0s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+3s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/e0658a6e-6b94-4990-bd42-380199f9797e' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Deleting the contents of '/home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+a00a508e5f0bfb6ee6abfe440f930500e5c91c2c 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+1s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/78dca657-8e88-4cf1-afe1-67acba223c81' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+succeeded Mar 18, 2025 in 6s 
+ 
+1s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+3s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/0ef82939-9285-45bd-aaca-091851f4ca40' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Deleting the contents of '/home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+05b4f05e6f805f7121a022081d7396670c33a1bc 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/3622dc28-9b1c-4ca8-9e45-03f2f5eaff03' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s 
+•	
+build 
+succeeded Mar 17, 2025 in 7s 
+ 
+1s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+2s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/7799e3a2-7a4b-40cc-979a-91fe69eb1719' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Deleting the contents of '/home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+7431e704cda210b090dfa80f149b6fb92b7bb477 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+1s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/94eca4d9-4b9b-4214-aea3-5268d2f937ee' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+•	
+build 
+succeeded Mar 13, 2025 in 8s 
+ 
+1s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+3s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/03d48402-9e20-42a3-88b6-c805d2c8b48c' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Deleting the contents of '/home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+eee93763adc6864b791c2a9a07e319ab07010441 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/d4575ef7-e564-4ea2-8005-5aeca2dd0a71' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+1s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+3s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/51865e05-d63e-47ef-8e66-2636dca7c02b' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Deleting the contents of '/home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+3e7e6162a0843b92ddf2457c8520cf7e1e2a841e 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/9faa1745-ef2c-4908-8b13-257b78138dac' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+build 
+succeeded Mar 11, 2025 in 4s 
+ 
+0s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+2s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/0135e7da-cd85-49aa-ac2f-ad3e098e7d5a' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Deleting the contents of '/home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+d07e231994eeaae501abd09e63a74a1f95019ab6 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/50e4e2f6-be1f-4326-806a-607b4ffc5940' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+build 
+succeeded Feb 21, 2025 in 5s 
+ 
+1s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download immutable action package 'actions/checkout@v4' 
+Complete job name: build 
+1s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/6d4fcb87-efb5-45ca-ad7e-93ce2dbf8dd1' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+Deleting the contents of '/home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+61277a5e1bebc34d59253fb9214e929cd7b3b9fc 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/1ec237f4-4920-443a-b3b3-a2f03553b20a' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju/Curriculum-section-1-1.1-Thesis.-Degree-honor-council-quality-rules-low-become-ju 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+•	
+•	Jobs 
+o	
+•	
+•	Run details 
+o	
+•	
+•	Jobs 
+o	
+•	
+•	Run details 
+o	
+Cleaning up orphan processes 
+
+0s
+Cleaning up orphan processes 
+
+
+
+On Tue, Mar 18, 2025 at 3:03 PM tshingombe fiston <tshingombefiston@gmail.com> wrote:
+Skip to main content 
+Learn 
+•	 
+•	•  •  •  •  •  •  
+ 
+ 
+•	 
+•	 
+Training 
+•	 
+•  •  •  •  •  •  •  •  •  Level 16 96% 442800 /460899 XP 
+1.	Learn 
+2.	Training 
+3.	Browse 
+1200 XP 
+Fundamentals of Generative AI
+•	9 min remaining
+•	Module 
+•	11 Units 
+Module Assessment Passed 
+Beginner 
+AI Engineer 
+Developer 
+Solution Architect 
+Student 
+Azure OpenAI Service 
+Azure 
+In this module, you explore the way in which language models enable AI applications and services to generate original content based on natural language input. You also learn how generative AI enables the creation of agents that can assist humans in creative tasks.
+Learning objectives 
+By the end of this module, you are able to:
+•	Understand generative AI's place in the development of artificial intelligence.
+•	Understand language models and their role in intelligent applications.
+•	Describe examples of Microsoft Copilot, agents, and good prompts.
+•	 
+Prerequisites
+•	Familiarity with Azure and the Azure portal.
+This module is part of these learning paths
+•	Copilot Foundations
+•	Enhance security operations by using Microsoft Security Copilot
+•	GitHub responsible AI
+•	Microsoft Azure AI Fundamentals: Generative AI
+•	SC-200: Mitigate threats using Microsoft Security Copilot
+Module assessment
+Assess your understanding of this module. Sign in and answer all questions correctly to earn a pass designation on your profile.
+Previous attempts
+•	 
+•	 
+•	Introduction 1 min 
+•	What is generative AI? 2 min 
+•	What are language models? 8 min 
+•	Using language models 3 min 
+•	Copilot and AI agents 3 min 
+•	Understand Microsoft Copilot 6 min 
+•	Considerations for prompts 3 min 
+•	Extending and developing copilot-like agents 3 min 
+•	Exercise - Explore generative AI in Azure AI Foundry portal 20 min 
+•	Knowledge check 3 min 
+•	Summary 1 min 
+•	Previous Versions
+•	Blog
+•	Contribute
+•	Privacy
+•	Terms of Use
+•	Trademarks
+•	© Microsoft 2025
+Skip to main content 
+Learn 
+•	 
+•	•  •  •  •  •  •  
+ 
+ 
+•	 
+•	 
+ 
+46307064
+tshingombefiston@gmail.com 
+Badges 
+929
+ 
+Trophies 
+214
+ 
+Reputation points 
+0
+ 
+Accepted answers 
+0
+Following 
+0
+ 
+Followers 
+0
+Level 16 96% 1,463,000/1,481,099 XP 
+On this page
+1.	Personal info, username and URL 
+2.	Account Management 
+3.	Manage email preferences 
+4.	Q&A preferences 
+5.	Privacy Settings 
+6.	Contributor ID 
+7.	Download your data 
+8.	Delete your profile 
+Personal info, username and URL
+Username and URL 
+https://learn.microsoft.com/en-us/users/ 
+ 
+Changing your username will break any existing links to your profile 
+Display name 
+ 
+The name that appears on your public profile, printable achievements, certificates, and transcript. 
+ 
+Legal name 
+Required to register for certification exams.
+First name  
+Middle name  
+Last name  
+Enter your legal name EXACTLY as it appears on your Government Issued ID. You must take this ID to the certification exam and the proctor will check that they match. If you don't have a legal last name, please enter _ in the last name field. 
+ Checking this box indicates that you acknowledge your legal name to be entered correctly. 
+Account Management 
+You can have up to five school or work accounts and one personal account linked to your profile to use for signing in. Linking a personal account allows you to retain your certifications, skills, and training data that was gathered on your work or school accounts if you leave those organizations. Linking a school or work account allows you to share your learning progress data with your organization. 
+You're signed in as 
+ 
+tshingombefiston@gmail.com
+Linked accounts 
+No accounts linked 
+Manage email preferences
+Microsoft Learn will send email to you at tshingombefiston@gmail.com. You can opt out by unsubscribing from Microsoft Learn.
+Contact email for notifications 
+Q&A preferences
+________________________________________
+Q&A email preferences
+Q&A email notifications
+Control whether to receive email from Microsoft Q&A. Includes mention, moderation, and follow email notifications. You’ll still receive administrative emails even if this setting is turned off.
+ 
+Mention email notifications
+Receive an email when someone mentions you using @display name notation.
+ 
+Private message notifications
+Receive an email when someone sends you a private message.
+ 
+Follow email notifications 
+Followers
+Receive email when someone follows you 
+Questions
+Receive email when a question is posted on a tag you follow 
+Receive email when a question you follow is edited 
+Receive email when questions you follow do not have any answers 
+Answers
+Receive email when an answer is posted on a question you follow 
+Receive email when an answer is edited on a question you follow 
+Receive email when an answer is accepted on a question you follow 
+Comments
+Receive email when a comment is posted on a question you follow 
+________________________________________
+Q&A follow preferences
+ Follow questions you’ve asked 
+ Follow questions you’ve answered 
+ Follow questions you’ve commented on 
+ Follow questions with tags you’re following 
+Privacy Settings 
+When private mode is on, your display name, Learn achievements, and Q&A contributions are hidden on your public profile. In addition, shared achievements and shared credentials will not be viewable.
+ 
+Private Mode 
+Contributor ID
+This Contributor ID allows us to capture insights and analytics on how you contribute to and engage with the platform. By using the social sharing and email buttons when logged in, you are providing consent for tracking and storing your activity associated with your Contributor ID.
+Contributor ID
+E04AC66333242283
+Assigned by 
+Microsoft Learn
+Download your data 
+This is where you can download a copy of your data. Data available for renewal assessments will include exam scores without specific or selected answers.
+Delete your profile 
+Please acknowledge you want to delete the following data on Learn and your profile.
+ Your Certifications 
+ Your Skills 
+ Modules and Learning Path completion 
+ Experience, Badges, Trophies, and Achievements 
+ Challenge completion 
+By hitting Delete, all data that Learn associated to you or your Learn profile will be deleted.
+•	Previous Versions
+•	Blog
+•	Contribute
+•	Privacy
+•	Terms of Use
+•	Trademarks
+•	© Microsoft 2025
+Click on any field below to edit it
+Page Title *Thesis Circulum Fial Building Question Answering Review 
+Page URL * https://archive.org/details/thesis-circulum-fial-building-question-answering-review 
+Description * enginering 
+Subject Tags * engineering 
+Creator engineering 
+Date 2025-03-18 
+Collection * Community texts 
+Test Item No 
+Language English 
+License Creative Commons Attribution-ShareAlike 
+More Options Add additional metadata... 
+ :  (remove)
+Drag and Drop More Files Here or 
+Name	Size	x
+		
+Achievements - 46307064 _ Microsoft Learn 25.pdf	389 KB	 
+		
+					
+Achievements - 46307064 _ Microsoft Learn 24.pdf	395 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn 23.pdf	391 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn 22.pdf	391 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn 21.pdf	399 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn 20pdf.pdf	399 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn 18.pdf	391 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn 17.pdf	390 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn 16.pdf	716 KB	 
+		
+microsoft form certificate.pdf	390 KB	 
+		
+Resume - SumTotal eaton traing unvisty.pdf	88 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn tshingombe.pdf 3.pdf	391 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn tshingombe.pdf 4.pdf	399 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn tshingombe.pdf	398 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn tshingombe.pdf 5pdf.pdf	399 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn tshingombe.pdf6.pdf	396 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn tshingombe.pdf7.pdf	399 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn tshingombe.pdf8.pdf	400 KB	 
+		
+Achievements - 46307064 _ Microsoft Learn tshingombe.pdf9.pdf	389 KB	 
+		
+thesis circulum fial building question answering review.pdf	11 MB	 
+
+
+
+
+
+
+
+
+me
+Inbox
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Fri, Mar 7, 3:03 PM
+	
+	
+to me 
+ 
+
+--ms-palette-themeDarker: #004578;
+  --ms-palette-themeDark: #005A9E;
+  --ms-palette-themeDarkAlt: #106EBE;
+  --ms-palette-themePrimary: #0078D4;
+  --ms-palette-themeSecondary: #2B88D8;
+  --ms-palette-themeTertiary: #71AFE5;
+  --ms-palette-themeLight: #C7E0F4;
+  --ms-palette-themeLighter: #DEECF9;
+  --ms-palette-themeLighterAlt: #EFF6FC;
+  --ms-palette-black: #000000;
+  --ms-palette-blackTranslucent40: rgba(0,0,0,.4);
+  --ms-palette-neutralDark: #141414;
+  --ms-palette-neutralPrimary: #242424;
+  --ms-palette-neutralPrimaryAlt: #424242;
+  --ms-palette-neutralSecondary: #616161;
+  --ms-palette-neutralSecondaryAlt: #8A8A8A;
+  --ms-palette-neutralTertiary: #9E9E9E;
+  --ms-palette-neutralTertiaryAlt: #C7C7C7;
+  --ms-palette-neutralQuaternary: #D1D1D1;
+  --ms-palette-neutralQuaternaryAlt: #E0E0E0;
+  --ms-palette-neutralLight: #EBEBEB;
+  --ms-palette-neutralLighter: #F0F0F0;
+  --ms-palette-neutralLighterAlt: #FAFAFA;
+  --ms-palette-accent: #0078D4;
+  --ms-palette-white: #FFFFFF;
+  --ms-palette-whiteTranslucent40: rgba(255,255,255,.4);
+  --ms-palette-yellowDark: #d29200;
+  --ms-palette-yellow: #ffb900;
+  --ms-palette-yellowLight: #fff100;
+  --ms-palette-orange: #d83b01;
+  --ms-palette-orangeLight: #ea4300;
+  --ms-palette-orangeLighter: #ff8c00;
+  --ms-palette-redDark: #a4262c;
+  --ms-palette-red: #e81123;
+  --ms-palette-magentaDark: #5c005c;
+  --ms-palette-magenta: #b4009e;
+  --ms-palette-magentaLight: #e3008c;
+  --ms-palette-purpleDark: #32145a;
+  --ms-palette-purple: #5c2d91;
+  --ms-palette-purpleLight: #b4a0ff;
+  --ms-palette-blueDark: #002050;
+  --ms-palette-blueMid: #00188f;
+  --ms-palette-blue: #0078d4;
+  --ms-palette-blueLight: #00bcf2;
+  --ms-palette-tealDark: #004b50;
+  --ms-palette-teal: #008272;
+  --ms-palette-tealLight: #00b294;
+  --ms-palette-greenDark: #004b1c;
+  --ms-palette-green: #107c10;
+  --ms-palette-greenLight: #bad80a;
+  --ms-palette-grey96: #F5F5F5;
+  --ms-palette-grey74: #BDBDBD;
+  --ms-semanticColors-bodyBackground: #FAFAFA;
+  --ms-semanticColors-bodyFrameBackground: #FFFFFF;
+  --ms-semanticColors-accentButtonText: #FFFFFF;
+  --ms-semanticColors-buttonBackground: #FFFFFF;
+  --ms-semanticColors-primaryButtonText: #FFFFFF;
+  --ms-semanticColors-primaryButtonTextHovered: #FFFFFF;
+  --ms-semanticColors-primaryButtonTextPressed: #FFFFFF;
+  --ms-semanticColors-inputBackground: #FFFFFF;
+  --ms-semanticColors-inputForegroundChecked: #FFFFFF;
+  --ms-semanticColors-listBackground: #FFFFFF;
+  --ms-semanticColors-menuBackground: #FFFFFF;
+  --ms-semanticColors-cardStandoutBackground: #FFFFFF;
+  --ms-semanticColors-bodyTextChecked: #000000;
+  --ms-semanticColors-buttonTextCheckedHovered: #242424;
+  --ms-semanticColors-link: #0078D4;
+  --ms-semanticColors-primaryButtonBackground: #0078D4;
+  --ms-semanticColors-inputBackgroundChecked: #0078D4;
+  --ms-semanticColors-inputIcon: #0078D4;
+  --ms-semanticColors-inputFocusBorderAlt: #0078D4;
+  --ms-semanticColors-menuIcon: #0078D4;
+  --ms-semanticColors-menuHeader: #0078D4;
+  --ms-semanticColors-accentButtonBackground: #0078D4;
+  --ms-semanticColors-primaryButtonBackgroundPressed: #004578;
+  --ms-semanticColors-inputBackgroundCheckedHovered: #005A9E;
+  --ms-semanticColors-inputIconHovered: #005A9E;
+  --ms-semanticColors-linkHovered: #004578;
+  --ms-semanticColors-primaryButtonBackgroundHovered: #106EBE;
+  --ms-semanticColors-inputPlaceholderBackgroundChecked: #DEECF9;
+  --ms-semanticColors-bodyBackgroundChecked: #EBEBEB;
+  --ms-semanticColors-bodyFrameDivider: #E0E0E0;
+  --ms-semanticColors-bodyDivider: #F0F0F0;
+  --ms-semanticColors-variantBorder: #EBEBEB;
+  --ms-semanticColors-buttonBackgroundCheckedHovered: #E0E0E0;
+  --ms-semanticColors-buttonBackgroundPressed: #E0E0E0;
+  --ms-semanticColors-listItemBackgroundChecked: #EBEBEB;
+  --ms-semanticColors-listHeaderBackgroundPressed: #EBEBEB;
+  --ms-semanticColors-menuItemBackgroundPressed: #E0E0E0;
+  --ms-semanticColors-menuItemBackgroundChecked: #EBEBEB;
+  --ms-semanticColors-bodyBackgroundHovered: #F5F5F5;
+  --ms-semanticColors-buttonBackgroundHovered: #F5F5F5;
+  --ms-semanticColors-buttonBackgroundDisabled: #F0F0F0;
+  --ms-semanticColors-buttonBorderDisabled: #E0E0E0;
+  --ms-semanticColors-primaryButtonBackgroundDisabled: #F0F0F0;
+  --ms-semanticColors-disabledBackground: #F0F0F0;
+  --ms-semanticColors-listItemBackgroundHovered: #F5F5F5;
+  --ms-semanticColors-listHeaderBackgroundHovered: #F5F5F5;
+  --ms-semanticColors-menuItemBackgroundHovered: #F5F5F5;
+  --ms-semanticColors-primaryButtonTextDisabled: #BDBDBD;
+  --ms-semanticColors-disabledSubtext: #E0E0E0;
+  --ms-semanticColors-listItemBackgroundCheckedHovered: #E0E0E0;
+  --ms-semanticColors-disabledBodyText: #BDBDBD;
+  --ms-semanticColors-variantBorderHovered: #9E9E9E;
+  --ms-semanticColors-buttonTextDisabled: #BDBDBD;
+  --ms-semanticColors-inputIconDisabled: #BDBDBD;
+  --ms-semanticColors-disabledText: #BDBDBD;
+  --ms-semanticColors-bodyText: #242424;
+  --ms-semanticColors-actionLink: #424242;
+  --ms-semanticColors-buttonText: #242424;
+  --ms-semanticColors-inputBorderHovered: #424242;
+  --ms-semanticColors-inputText: #242424;
+  --ms-semanticColors-listText: #242424;
+  --ms-semanticColors-menuItemText: #424242;
+  --ms-semanticColors-bodyStandoutBackground: #FAFAFA;
+  --ms-semanticColors-defaultStateBackground: #FAFAFA;
+  --ms-semanticColors-actionLinkHovered: #242424;
+  --ms-semanticColors-buttonTextHovered: #242424;
+  --ms-semanticColors-buttonTextChecked: #242424;
+  --ms-semanticColors-buttonTextPressed: #242424;
+  --ms-semanticColors-inputTextHovered: #242424;
+  --ms-semanticColors-menuItemTextHovered: #424242;
+  --ms-semanticColors-bodySubtext: #616161;
+  --ms-semanticColors-focusBorder: #000000;
+  --ms-semanticColors-inputBorder: #616161;
+  --ms-semanticColors-smallInputBorder: #616161;
+  --ms-semanticColors-inputPlaceholderText: #616161;
+  --ms-semanticColors-buttonBorder: #D1D1D1;
+  --ms-semanticColors-disabledBodySubtext: #BDBDBD;
+  --ms-semanticColors-disabledBorder: #E0E0E0;
+  --ms-semanticColors-buttonBackgroundChecked: #EBEBEB;
+  --ms-semanticColors-menuDivider: #E0E0E0;
+  --ms-semanticColors-cardShadow: 0px 2px 4px rgba(0, 0, 0, 0.14), 0px 0px 2px rgba(0, 0, 0, 0.12);
+  --ms-semanticColors-cardShadowHovered: 0px 4px 8px rgba(0, 0, 0, 0.14), 0px 0px 2px rgba(0, 0, 0, 0.12);
+  --ms-semanticColors-primaryButtonBorder: transparent;
+  --ms-semanticColors-errorText: #a4262c;
+  --ms-semanticColors-messageText: #242424;
+  --ms-semanticColors-messageLink: #005A9E;
+  --ms-semanticColors-messageLinkHovered: #004578;
+  --ms-semanticColors-infoIcon: #616161;
+  --ms-semanticColors-errorIcon: #A80000;
+  --ms-semanticColors-blockingIcon: #FDE7E9;
+  --ms-semanticColors-warningIcon: #797775;
+  --ms-semanticColors-severeWarningIcon: #D83B01;
+  --ms-semanticColors-successIcon: #107C10;
+  --ms-semanticColors-infoBackground: #F0F0F0;
+  --ms-semanticColors-errorBackground: #FDE7E9;
+  --ms-semanticColors-blockingBackground: #FDE7E9;
+  --ms-semanticColors-warningBackground: #FFF4CE;
+  --ms-semanticColors-severeWarningBackground: #FED9CC;
+  --ms-semanticColors-successBackground: #DFF6DD;
+  --ms-semanticColors-warningHighlight: #ffb900;
+  --ms-semanticColors-successText: #107C10;
+  --ms-semanticColors-listTextColor: #323130;
+  --ms-semanticColors-warningText: #323130;
+  --ms-fonts-tiny-fontSize: 10px;
+  --ms-fonts-tiny-fontWeight: 400;
+  --ms-fonts-xSmall-fontSize: 10px;
+  --ms-fonts-xSmall-fontWeight: 400;
+  --ms-fonts-small-fontSize: 12px;
+  --ms-fonts-small-fontWeight: 400;
+  --ms-fonts-smallPlus-fontSize: 12px;
+  --ms-fonts-smallPlus-fontWeight: 400;
+  --ms-fonts-medium-fontSize: 14px;
+  --ms-fonts-medium-fontWeight: 400;
+  --ms-fonts-mediumPlus-fontSize: 16px;
+  --ms-fonts-mediumPlus-fontWeight: 400;
+  --ms-fonts-large-fontSize: 18px;
+  --ms-fonts-large-fontWeight: 400;
+  --ms-fonts-xLarge-fontSize: 20px;
+  --ms-fonts-xLarge-fontWeight: 600;
+  --ms-fonts-xLargePlus-fontSize: 24px;
+  --ms-fonts-xLargePlus-fontWeight: 600;
+  --ms-fonts-xxLarge-fontSize: 28px;
+  --ms-fonts-xxLarge-fontWeight: 600;
+  --ms-fonts-xxLargePlus-fontSize: 32px;
+  --ms-fonts-xxLargePlus-fontWeight: 600;
+  --ms-fonts-superLarge-fontSize: 42px;
+  --ms-fonts-superLarge-fontWeight: 600;
+  --ms-fonts-mega-fontSize: 68px;
+  --ms-fonts-mega-fontWeight: 600;
+  --ms-effects-elevation4: 0px 2px 4px rgba(0, 0, 0, 0.14), 0px 0px 2px rgba(0, 0, 0, 0.12);
+  --ms-effects-elevation8: 0px 4px 8px rgba(0, 0, 0, 0.14), 0px 0px 2px rgba(0, 0, 0, 0.12);
+  --ms-effects-elevation16: 0px 8px 16px rgba(0, 0, 0, 0.14), 0px 0px 2px rgba(0, 0, 0, 0.12);
+  --ms-effects-elevation64: 0px 32px 64px rgba(0, 0, 0, 0.24), 0px 0px 8px rgba(0, 0, 0, 0.2);
+  --ms-effects-roundedCorner2: 2px;
+  --ms-effects-roundedCorner4: 4px;
+  --ms-effects-roundedCorner6: 6px;
+  --ms-effects-elevation2: 0px 1px 2px rgba(0, 0, 0, 0.14), 0px 0px 2px rgba(0, 0, 0, 0.12);
+  --ms-effects-elevation28: 0px 14px 28.8px rgba(0, 0, 0, 0.24), 0px 0px 8px rgba(0, 0, 0, 0.2);
+  --ms-effects-roundedCorner8: 8px;
+  --ms-effects-roundedCornerCircle: 50%;
+}
+margin
+border
+padding
+×
+0×0
+static
+    box-sizing
+    content-box
+    display
+    none
+    float
+    none
+    line-height
+    normal
+    position
+    static
+    z-index
+    auto
+run
+Inbox
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Thu, Mar 6, 1:51 PM
+	
+	
+to me 
+ 
+
+bandit 
+succeeded Jan 18, 2025 in 18s 
+ 
+6s
+Current runner version: '2.321.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v2' (SHA:ee0669bd1cc54295c223e0bb666b733df41de1c5) 
+Download action repository 'shundor/python-bandit-scan@9cc5aa4a006482b8a7f91134412df6772dbda22c' (SHA:9cc5aa4a006482b8a7f91134412df6772dbda22c) 
+Getting action download info 
+Download action repository 'actions/upload-artifact@main' (SHA:65c4c4a1ddee5b72f698fdd19549f0f0fb45cf08) 
+Download action repository 'github/codeql-action@v2' (SHA:b8d3b6e8af63cde30bdc382c0bc28114f4346c88) 
+Complete job name: bandit 
+1s
+Run actions/checkout@v2 
+Syncing repository: Kananga5/engineering-workbase-tshing-pratical-batch- 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/d097deb1-71b1-46f0-aaeb-f21540e582e1' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/engineering-workbase-tshing-pratical-batch-/engineering-workbase-tshing-pratical-batch- 
+Deleting the contents of '/home/runner/work/engineering-workbase-tshing-pratical-batch-/engineering-workbase-tshing-pratical-batch-' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+Checking out the ref 
+/usr/bin/git log -1 --format='%H' 
+'2c6a62ee68969b6eeffb032cfc33632d3209d7c9' 
+10s
+Run shundor/python-bandit-scan@9cc5aa4a006482b8a7f91134412df6772dbda22c 
+Run pip install bandit bandit-sarif-formatter 
+Defaulting to user installation because normal site-packages is not writeable 
+Collecting bandit 
+Downloading bandit-1.8.2-py3-none-any.whl.metadata (7.0 kB) 
+Collecting bandit-sarif-formatter 
+Downloading bandit_sarif_formatter-1.1.1-py3-none-any.whl.metadata (4.0 kB) 
+Requirement already satisfied: PyYAML>=5.3.1 in /usr/lib/python3/dist-packages (from bandit) (6.0.1) 
+Collecting stevedore>=1.20.0 (from bandit) 
+Downloading stevedore-5.4.0-py3-none-any.whl.metadata (2.3 kB) 
+Requirement already satisfied: rich in /usr/lib/python3/dist-packages (from bandit) (13.7.1) 
+Collecting jschema-to-python>=1.2.3 (from bandit-sarif-formatter) 
+Downloading jschema_to_python-1.2.3-py3-none-any.whl.metadata (3.1 kB) 
+Collecting sarif-om>=1.0.4 (from bandit-sarif-formatter) 
+Downloading sarif_om-1.0.4-py3-none-any.whl.metadata (3.2 kB) 
+Requirement already satisfied: attrs in /usr/lib/python3/dist-packages (from jschema-to-python>=1.2.3->bandit-sarif-formatter) (23.2.0) 
+Collecting jsonpickle (from jschema-to-python>=1.2.3->bandit-sarif-formatter) 
+Downloading jsonpickle-4.0.1-py3-none-any.whl.metadata (8.2 kB) 
+Collecting pbr (from jschema-to-python>=1.2.3->bandit-sarif-formatter) 
+Downloading pbr-6.1.0-py2.py3-none-any.whl.metadata (3.4 kB) 
+Requirement already satisfied: markdown-it-py>=2.2.0 in /usr/lib/python3/dist-packages (from rich->bandit) (3.0.0) 
+Requirement already satisfied: pygments<3.0.0,>=2.13.0 in /usr/lib/python3/dist-packages (from rich->bandit) (2.17.2) 
+Requirement already satisfied: mdurl~=0.1 in /usr/lib/python3/dist-packages (from markdown-it-py>=2.2.0->rich->bandit) (0.1.2) 
+Downloading bandit-1.8.2-py3-none-any.whl (127 kB) 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 127.0/127.0 kB 5.1 MB/s eta 0:00:00 
+Downloading bandit_sarif_formatter-1.1.1-py3-none-any.whl (8.5 kB) 
+Downloading jschema_to_python-1.2.3-py3-none-any.whl (10 kB) 
+Downloading sarif_om-1.0.4-py3-none-any.whl (30 kB) 
+Downloading stevedore-5.4.0-py3-none-any.whl (49 kB) 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 49.5/49.5 kB 16.9 MB/s eta 0:00:00 
+Downloading pbr-6.1.0-py2.py3-none-any.whl (108 kB) 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 108.5/108.5 kB 22.6 MB/s eta 0:00:00 
+Downloading jsonpickle-4.0.1-py3-none-any.whl (46 kB) 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 46.2/46.2 kB 16.6 MB/s eta 0:00:00 
+Installing collected packages: pbr, jsonpickle, stevedore, sarif-om, jschema-to-python, bandit-sarif-formatter, bandit 
+Successfully installed bandit-1.8.2 bandit-sarif-formatter-1.1.1 jschema-to-python-1.2.3 jsonpickle-4.0.1 pbr-6.1.0 sarif-om-1.0.4 stevedore-5.4.0 
+Run UPPERCASE_LEVEL=$(echo $INPUT_LEVEL | tr a-z A-Z) 
+[main] INFO profile include tests: None 
+[main] INFO profile exclude tests: None 
+[main] INFO cli include tests: None 
+[main] INFO cli exclude tests: None 
+[main] INFO running on Python 3.12.3 
+[formatter] INFO SARIF output written to file: results.sarif 
+Run actions/upload-artifact@main 
+With the provided path, there will be 1 file uploaded 
+Artifact name is valid! 
+Root directory input is valid! 
+Beginning upload of artifact content to blob storage 
+Uploaded bytes 481 
+Finished uploading artifact content to blob storage! 
+SHA256 hash of uploaded artifact zip is 6131293efc522a3f35452ef04c3022691a84c947553d71bdc3f946be69f4bd98 
+Finalizing artifact upload 
+Artifact results.sarif.zip successfully finalized. Artifact ID 2451229740 
+Artifact results.sarif has been successfully uploaded! Final size is 481 bytes. Artifact ID is 2451229740 
+Artifact download URL: https://github.com/Kananga5/engineering-workbase-tshing-pratical-batch-/actions/runs/12845722086/artifacts/2451229740 
+Run github/codeql-action/upload-sarif@v2 
+Error: CodeQL Action major versions v1 and v2 have been deprecated. Please update all occurrences of the CodeQL Action in your workflow files to v3. For more information, see https://github.blog/changelog/2025-01-10-code-scanning-codeql-action-v2-is-now-deprecated/ 
+Uploading results 
+Waiting for processing to finish 
+0s
+Post job cleanup. 
+Post job cleanup. 
+Uploading combined SARIF debug artifact 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.47.1 
+Temporarily overriding HOME='/home/runner/work/_temp/c8c43322-80a7-4a1a-86f6-cb2423698d4c' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/engineering-workbase-tshing-pratical-batch-/engineering-workbase-tshing-pratical-batch- 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes
+me tshingombe
+Inbox
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Wed, Mar 5, 2:53 PM
+	
+	
+to me 
+ 
+
+Busy 
+Kananga5 
+@Kananga5 
+ Engineering 
+•	Kananga5 
+•	README.md 
+Edit file 
+•	 Hi, I’m @Kananga5
+•	 I’m interested in ...
+•	 I’m currently learning ...
+•	 ️ I’m looking to collaborate on ...
+•	 How to reach me ...
+•	 Pronouns: ...
+•	 Fun fact: ...
+Activity 
+View all 
+Issues, merge requests, pushes, and comments.
+3 days ago 
+opened issue #1 "GITLAB STRIPE" at Kananga5 / Uturn Demo 
+3 days ago 
+commented on issue #2 "engineering" at engineering tshingombe / Engineering 
+Invoice-D24FC103-0001.pdf
+3 days ago 
+opened issue #2 "engineering" at engineering tshingombe / Engineering 
+3 days ago 
+created project Kananga5 / Uturn Demo 
+6 days ago 
+commented on issue #4 "engineering job and thesis" at engineering tshingombe / thesis honor degre engineering and education technologie 
+Gmail_-_ISC2_Security_Congress_2025__Call_for_Presentations_Feedback_tshingombe.pdf...
+6 days ago 
+commented on commit 558ebbf7 "Create maven-publish.yml" at Kananga5 / ORCID-Source 
+experimental_career_engineering___tshingombe__info_man_systm___docdata_reseach.docx
+6 days ago 
+commented on issue #4 "engineering job and thesis" at engineering tshingombe / thesis honor degre engineering and education technologie 
+hello
+6 days ago 
+opened issue #4 "engineering job and thesis" at engineering tshingombe / thesis honor degre engineering and education technologie 
+6 days ago 
+closed issue #4 "engineering job and thesis" at engineering tshingombe / thesis honor degre engineering and education technologie 
+6 days ago 
+commented on issue #4 "engineering job and thesis" at engineering tshingombe / thesis honor degre engineering and education technologie 
+hello yes i do it experimental_microsoft_career.docx...
+1 week ago 
+opened milestone %e in engineering tshingombe / Engineering 
+1 week ago 
+opened test_case #1 "engineering" at engineering tshingombe / Engineering 
+1 week ago 
+created project engineering tshingombe / Engineering 
+1 week ago 
+imported project Kananga5 / ORCID-Source 
+1 week ago 
+imported project Kananga5 / form-microsoft-cmputer-framework-qualification-diploma-question-assessment 
+Personal projects 
+View all 
+View Uturn Demo project 
+Uturn Demo 
+This project was part of an an employment application to Uturn Data Solutions to test infrastructure skills. They provided a pre-coded AWS DynamoDB and Python based API application that was to be pulled and stood up to run on cloud infrastructure. I utilized AWS, OpenTofu (a fork of Terraform), and GitLab CI. There are two web servers behind a load balancer for redundancy.
+0 0 0 1 
+Updated 3 days ago 
+View ORCID-Source project 
+O 
+
+ORCID-Source 
+ORCID Open Source Project
+0 0 0 0 
+Updated 6 days ago 
+View form-microsoft-cmputer-framework-qualification-diploma-question-assessment project 
+F 
+
+form-microsoft-cmputer-framework-qualification-diploma-question-assessment 
+computer framework assessment
+0 0 0 0 
+Updat
+
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Wed, Mar 5, 2:57 PM
+
+	
+	
+to me 
+ 
+
+1s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+5s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/data-base-career-experimental-security-and-information-thesis- 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/9333f9eb-7ffd-491f-b7c4-e0fb3635be0d' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+Deleting the contents of '/home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis-' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+6f86077fec4d05c877138168c70febb8800edef1 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/7f272fd5-d2ce-4441-8682-64416a24b8a2' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s 
+succeeded Mar 5, 2025 in 5s 
+ 
+0s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+4s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/data-base-career-experimental-security-and-information-thesis- 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/97438f5c-fa97-4b46-9be3-7f0d4ee444b4' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+Deleting the contents of '/home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis-' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+937d44d0f779387fe90e5a6e73b9b54fc605cf6a 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+1s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/6a1db654-fcc5-469c-a18f-a05b54ab6bdb' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+10s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/data-base-career-experimental-security-and-information-thesis- 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/4474cfee-0407-491b-a33a-981cda0fe618' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+Deleting the contents of '/home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis-' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+b02222d64033cb725c6feef24dd1db4a734640b8 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/51c25380-65b7-4df0-add0-4bfe26a94072' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+Cleaning up orphan processes
+ 
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Wed, Mar 5, 3:00 PM
+
+	
+	
+to me 
+ 
+
+0s
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+3s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/data-base-career-experimental-security-and-information-thesis- 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/99179dc3-7ad6-44a0-9ad7-db41301dd710' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+Deleting the contents of '/home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis-' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+0519f13977e3974ef7c52519981c69f7aa57bac5 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/555b3b48-8e65-49bf-a273-b140c56ee9ff' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s 
+Current runner version: '2.322.0' 
+Operating System 
+Runner Image 
+Runner Image Provisioner 
+GITHUB_TOKEN Permissions 
+Secret source: Actions 
+Prepare workflow directory 
+Prepare all required actions 
+Getting action download info 
+Download action repository 'actions/checkout@v4' (SHA:11bd71901bbe5b1630ceea73d27597364c9af683) 
+Complete job name: build 
+3s
+Run actions/checkout@v4 
+Syncing repository: Kananga5/data-base-career-experimental-security-and-information-thesis- 
+Getting Git version info 
+Temporarily overriding HOME='/home/runner/work/_temp/d0dd1c51-40a2-4716-9599-77b780da5fd1' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+Deleting the contents of '/home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis-' 
+Initializing the repository 
+Disabling automatic garbage collection 
+Setting up auth 
+Fetching the repository 
+Determining the checkout info 
+/usr/bin/git sparse-checkout disable 
+/usr/bin/git config --local --unset-all extensions.worktreeConfig 
+Checking out the ref 
+/usr/bin/git log -1 --format=%H 
+1403b27ce6e880bab7d8af7f0ff53da7f980c65e 
+0s
+Run echo Hello, world! 
+Hello, world! 
+0s
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.48.1 
+Temporarily overriding HOME='/home/runner/work/_temp/ada45f95-9ee5-4929-a857-bbe0730f74d0' before making global git config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/data-base-career-experimental-security-and-information-thesis-/data-base-career-experimental-security-and-information-thesis- 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s
+Cleaning up orphan processes 
+Cleaning up orphan processes
+ 
+
+
+
+
+frm1 - 1 
+Private Sub ComboBox1_Change() 
+End Sub 
+Private Sub ComboBox2_Change() 
+End Sub 
+Private Sub ComboBox3_Change() 
+End Sub 
+Private Sub ComboBox4_Change() 
+End Sub 
+Private Sub ComboBox5_Change() 
+End Sub 
+Private Sub CommandButton1_Click() 
+End Sub 
+Private Sub CommandButton2_Click() 
+End Sub 
+Private Sub CommandButton3_Click() 
+End Sub 
+Private Sub Frame1_Click() 
+End Sub 
+Private Sub Label1_Click() 
+End Sub 
+Private Sub Label2_Click() 
+End Sub 
+Private Sub Label3_Click() 
+End Sub 
+Private Sub Label5_Click() 
+End Sub 
+Private Sub Label6_Click() 
+End Sub 
+Private Sub TextBox1_BeforeDragOver(ByVal Cancel As MSForms.ReturnBoolean, ByVal Data As MSForms.DataO 
+bject, ByVal X As Single, ByVal Y As Single, ByVal DragState As MSForms.fmDragState, ByVal Effect As M 
+SForms.ReturnEffect, ByVal Shift As Integer) 
+End Sub 
+Private Sub TextBox1_BeforeDropOrPaste(ByVal Cancel As MSForms.ReturnBoolean, ByVal Action As MSForms. 
+fmAction, ByVal Data As MSForms.DataObject, ByVal X As Single, ByVal Y As Single, ByVal Effect As MSFo 
+rms.ReturnEffect, ByVal Shift As Integer) 
+End Sub 
+Private Sub TextBox1_Change() 
+End Sub 
+Private Sub TextBox1_DblClick(ByVal Cancel As MSForms.ReturnBoolean)frm1 - 2 
+End Sub 
+Private Sub TextBox1_DropButtonClick() 
+End Sub 
+Private Sub TextBox1_Enter() 
+End Sub 
+Private Sub TextBox1_Error(ByVal Number As Integer, ByVal Description As MSForms.ReturnString, ByVal S 
+Code As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, ByVal Cance 
+lDisplay As MSForms.ReturnBoolean) 
+End Sub 
+Private Sub TextBox1_KeyDown(ByVal KeyCode As MSForms.ReturnInteger, ByVal Shift As Integer) 
+End Sub 
+Private Sub TextBox1_KeyPress(ByVal KeyAscii As MSForms.ReturnInteger) 
+End Sub 
+Private Sub TextBox1_KeyUp(ByVal KeyCode As MSForms.ReturnInteger, ByVal Shift As Integer) 
+
+End Sub 
+Private Sub TextBox1_MouseDown(ByVal Button As Integer, ByVal Shift As Integer, ByVal X As Single, ByV 
+al Y As Single) 
+End Sub 
+Private Sub TextBox1_MouseMove(ByVal Button As Integer, ByVal Shift As Integer, ByVal X As Single, ByV 
+al Y As Single) 
+End Sub 
+Private Sub TextBox1_MouseUp(ByVal Button As Integer, ByVal Shift As Integer, ByVal X As Single, ByVal 
+Y As Single) 
+End Sub1 .background: outcome 
+- 2.topic. 
+- overview key 
+- 
+_______________________________________ 
+label name 7 
+combo "text, " name 8 
+label surname 9 
+combo " text " surname 10 
+label I'd 11 
+combo " text " ID, 12 
+Label5 
+label cell phone 13 
+combo " text " cellphone 14 
+command _ok ,15 
+command _cancell.16 
+command_ next ,17 
+Frame1
+
+engineering
+Inbox
+ 
+tshingombe fiston <tshingombefiston@gmail.com> 
+	Mon, Mar 3, 3:19 PM
+	
+	
+to me 
+ 
+
+namics 365 Community / My Profile
+ 
+ 
+CU03031227-0 
+Stats
+0 Comments 
+0 Posts 
+1 Likes 
+0 Questions 
+My activity 
+Achievements
+•	
+Personal information
+
+•	
+Achievements
+
+•	
+Notifications
+
+•	
+Notification settings
+
+•	
+Quick responses
+
+Personal information
+Email
+tshingombefiston@gmail.com
+
+
+
+
+
+
+
+
+
  
 Regards,
 SARS Talent Acquisition Team
